@@ -1,0 +1,585 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\708677162bbdb6a615e3631012d4b791\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\c0a367899910eb536d0d894dd2d6d130\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:percent:27.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\percent-27.0.0.aar\d46fbf322beb28ae864f47064860a526\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\44fc1880a78d99ee37a0875ff0a78b2f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\69ef35c848744b6c0cd58d05375ba3bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60f713def25b241fc564f369c59c392d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\53c8b7cc2d3e55340c9f0457d9325026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\464175997bc7ea79320ace6687a7b735\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\846f5dfd0708dab6944cb1c464256e7a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\140c277d2f02d661c38c2568920fcd3d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4613a310fbb7fc6e08dc4ed6c941798a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43e96ccd84969f7093865da49f01c349\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d488d150bd77ef5acd66526ec8698892\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2b0c4312e83312343092f5901067a82a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\980f5a362ef2aad5976074f475b0e974\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\9b70e8ce1ad1f9ad2ec18d3090cbc62b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e638bd0f93b8686658869a8b367feae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\7401222e398df8d849c9e2e19efb2614\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d59db29f698c8b5f064c804b5fb9a26\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\4c25c19175865ba4481a825a46716089\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\684f8f3ff3a5dd06540abf55c7c51ece\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c9edfa089a229aab7011a57227c5fa4a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0efe377fcc5c07d5aa1179ea0eab7109\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b93d78675c03dc1504d5340b6e34b0e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fec3245ca347d324300b187ead249b24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\106eeadfef20cf1660c8ed6664203083\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2a0e17b7ed3dd93e0195d2b2e6593f00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\28ddb845fc55a05a90bb960d619953f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1bd76c48a062cd4badf2047d3ac15372\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\851f9d53fc6f60a5183b79c6e90f58e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\823a57b417a962beb1520dd77922a321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\413957f6decf647b210d90a4bd661cff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0becbb85e85224db33f6589e0f5e8f4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f85b0969c3fc26d83c599ddbb6a19f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\a5395bd04c89805e51a0998518385155\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c8b08c9d48035745d1c9aab11d807352\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\49c7bb223373167b96ebe1435fd1a33a\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1780a1f261dcde3a3a302057356330bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7bb9b853c796c062a0b76ceaa96c9a4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1bba19a25170c454a8998349191583f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f80900892509d7f157d3c89d83af00fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4534a56b43cde41c51b25d47228515c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\16a00cfc5f3d467fe73529cadf863961\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97d6dc138cbc8628eb9583bd727b5246\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\934c48b4386c6741067e3cb62b563a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4c5028d35427cbc44fd7c0dc46d8983\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\d3036c5b3594ae3d9800edee7f65f2f4\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\9b70e8ce1ad1f9ad2ec18d3090cbc62b\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\9b70e8ce1ad1f9ad2ec18d3090cbc62b\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:9:5-48:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\c0a367899910eb536d0d894dd2d6d130\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\c0a367899910eb536d0d894dd2d6d130\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\44fc1880a78d99ee37a0875ff0a78b2f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\44fc1880a78d99ee37a0875ff0a78b2f\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\464175997bc7ea79320ace6687a7b735\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\464175997bc7ea79320ace6687a7b735\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\846f5dfd0708dab6944cb1c464256e7a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\846f5dfd0708dab6944cb1c464256e7a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4613a310fbb7fc6e08dc4ed6c941798a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4613a310fbb7fc6e08dc4ed6c941798a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\7401222e398df8d849c9e2e19efb2614\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\7401222e398df8d849c9e2e19efb2614\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d59db29f698c8b5f064c804b5fb9a26\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d59db29f698c8b5f064c804b5fb9a26\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\4c25c19175865ba4481a825a46716089\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\4c25c19175865ba4481a825a46716089\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\684f8f3ff3a5dd06540abf55c7c51ece\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\684f8f3ff3a5dd06540abf55c7c51ece\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c9edfa089a229aab7011a57227c5fa4a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c9edfa089a229aab7011a57227c5fa4a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0efe377fcc5c07d5aa1179ea0eab7109\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0efe377fcc5c07d5aa1179ea0eab7109\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:22:5-94
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\a5395bd04c89805e51a0998518385155\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\a5395bd04c89805e51a0998518385155\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\49c7bb223373167b96ebe1435fd1a33a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\49c7bb223373167b96ebe1435fd1a33a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\d3036c5b3594ae3d9800edee7f65f2f4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\d3036c5b3594ae3d9800edee7f65f2f4\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.android.plantism.MainActivity
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:15:9-21:71
+	android:screenOrientation
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:17:13-45
+	android:launchMode
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:18:13-43
+	android:theme
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:16:13-61
+activity#com.android.plantism.ui.LoginActivity
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:23:9-33:20
+	android:screenOrientation
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:25:13-43
+	android:theme
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:24:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.android.plantism.ui.RegisterActivity
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:34:9-38:50
+	android:screenOrientation
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:36:13-43
+	android:theme
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:35:13-68
+activity#com.android.plantism.ui.ChatActivity
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:39:9-42:77
+	android:screenOrientation
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:41:13-49
+	android:parentActivityName
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:42:13-75
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:40:13-64
+activity#com.android.plantism.ui.AddGroupActivity
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:43:9-44:56
+	android:theme
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:43:19-74
+service#com.android.plantism.service.FriendChatService
+ADDED from E:\plantism\app\src\main\AndroidManifest.xml:45:9-47:42
+	android:exported
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:46:13-37
+	android:persistent
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:47:13-39
+	android:name
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml:45:18-79
+uses-sdk
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\708677162bbdb6a615e3631012d4b791\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\708677162bbdb6a615e3631012d4b791\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\c0a367899910eb536d0d894dd2d6d130\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\c0a367899910eb536d0d894dd2d6d130\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:percent:27.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\percent-27.0.0.aar\d46fbf322beb28ae864f47064860a526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\percent-27.0.0.aar\d46fbf322beb28ae864f47064860a526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\44fc1880a78d99ee37a0875ff0a78b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\44fc1880a78d99ee37a0875ff0a78b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\69ef35c848744b6c0cd58d05375ba3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\69ef35c848744b6c0cd58d05375ba3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60f713def25b241fc564f369c59c392d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60f713def25b241fc564f369c59c392d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\53c8b7cc2d3e55340c9f0457d9325026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\53c8b7cc2d3e55340c9f0457d9325026\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\464175997bc7ea79320ace6687a7b735\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\464175997bc7ea79320ace6687a7b735\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\846f5dfd0708dab6944cb1c464256e7a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\846f5dfd0708dab6944cb1c464256e7a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\140c277d2f02d661c38c2568920fcd3d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\140c277d2f02d661c38c2568920fcd3d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4613a310fbb7fc6e08dc4ed6c941798a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4613a310fbb7fc6e08dc4ed6c941798a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43e96ccd84969f7093865da49f01c349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43e96ccd84969f7093865da49f01c349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d488d150bd77ef5acd66526ec8698892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d488d150bd77ef5acd66526ec8698892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2b0c4312e83312343092f5901067a82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2b0c4312e83312343092f5901067a82a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\980f5a362ef2aad5976074f475b0e974\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\980f5a362ef2aad5976074f475b0e974\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\9b70e8ce1ad1f9ad2ec18d3090cbc62b\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\9b70e8ce1ad1f9ad2ec18d3090cbc62b\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e638bd0f93b8686658869a8b367feae6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e638bd0f93b8686658869a8b367feae6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\7401222e398df8d849c9e2e19efb2614\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\7401222e398df8d849c9e2e19efb2614\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d59db29f698c8b5f064c804b5fb9a26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d59db29f698c8b5f064c804b5fb9a26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\4c25c19175865ba4481a825a46716089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\4c25c19175865ba4481a825a46716089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\684f8f3ff3a5dd06540abf55c7c51ece\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\684f8f3ff3a5dd06540abf55c7c51ece\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c9edfa089a229aab7011a57227c5fa4a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c9edfa089a229aab7011a57227c5fa4a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0efe377fcc5c07d5aa1179ea0eab7109\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0efe377fcc5c07d5aa1179ea0eab7109\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b93d78675c03dc1504d5340b6e34b0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b93d78675c03dc1504d5340b6e34b0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fec3245ca347d324300b187ead249b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fec3245ca347d324300b187ead249b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\106eeadfef20cf1660c8ed6664203083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\106eeadfef20cf1660c8ed6664203083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2a0e17b7ed3dd93e0195d2b2e6593f00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2a0e17b7ed3dd93e0195d2b2e6593f00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\28ddb845fc55a05a90bb960d619953f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\28ddb845fc55a05a90bb960d619953f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1bd76c48a062cd4badf2047d3ac15372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1bd76c48a062cd4badf2047d3ac15372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\851f9d53fc6f60a5183b79c6e90f58e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\851f9d53fc6f60a5183b79c6e90f58e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\823a57b417a962beb1520dd77922a321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\823a57b417a962beb1520dd77922a321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\413957f6decf647b210d90a4bd661cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\413957f6decf647b210d90a4bd661cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0becbb85e85224db33f6589e0f5e8f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0becbb85e85224db33f6589e0f5e8f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f85b0969c3fc26d83c599ddbb6a19f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f85b0969c3fc26d83c599ddbb6a19f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d9de52aaf357da22a3196d35dfb6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\a5395bd04c89805e51a0998518385155\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\a5395bd04c89805e51a0998518385155\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c8b08c9d48035745d1c9aab11d807352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c8b08c9d48035745d1c9aab11d807352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\49c7bb223373167b96ebe1435fd1a33a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\49c7bb223373167b96ebe1435fd1a33a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1780a1f261dcde3a3a302057356330bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1780a1f261dcde3a3a302057356330bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7bb9b853c796c062a0b76ceaa96c9a4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7bb9b853c796c062a0b76ceaa96c9a4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1bba19a25170c454a8998349191583f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1bba19a25170c454a8998349191583f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f80900892509d7f157d3c89d83af00fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f80900892509d7f157d3c89d83af00fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4534a56b43cde41c51b25d47228515c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4534a56b43cde41c51b25d47228515c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\16a00cfc5f3d467fe73529cadf863961\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\16a00cfc5f3d467fe73529cadf863961\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97d6dc138cbc8628eb9583bd727b5246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97d6dc138cbc8628eb9583bd727b5246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\934c48b4386c6741067e3cb62b563a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\934c48b4386c6741067e3cb62b563a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4c5028d35427cbc44fd7c0dc46d8983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4c5028d35427cbc44fd7c0dc46d8983\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\d3036c5b3594ae3d9800edee7f65f2f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\d3036c5b3594ae3d9800edee7f65f2f4\AndroidManifest.xml:20:5-44
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+		ADDED from E:\plantism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\plantism\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\81f0604e806724cd5f625895ee2f3c96\AndroidManifest.xml:33:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\1a820c2dadd0c84c72d2ccf529ddab72\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\cfb161b15277b4dd738d3fc282894f59\AndroidManifest.xml:23:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\f73512fdb976e860f97d1e16ad4589e3\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\24990d260b0f3fbba8f962960ffd8c45\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6cf4acc81ea1024328fe3c4ea7c00b42\AndroidManifest.xml:49:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:29:9-63
+permission#melarahmadani.com.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:32:22-76
+uses-permission#melarahmadani.com.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:melarahmadani.com
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:48:27-58
+category#melarahmadani.com
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\44c7a5daf4857190d6e83e44d1c52032\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\d5e839110835262829d03ac5a2abef13\AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6784ea916bcd97e051a589a4a36db9a9\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\20a8f95a1d7ce3782b1332d165f27fa2\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\aa05c01606473a53f7df3c2b255c3a20\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1d430becf4272508260fa5a0604c0f35\AndroidManifest.xml:27:13-51
